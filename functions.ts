@@ -31,3 +31,4 @@ function davetGonder2(...digerleri:string[]){
     return digerleri.join(" ")
 }
 console.log(davetGonder2("Gel","Sen de Gel","Sen Gelme Ulan","Sen Hep Gel"))
+console.log(davetGonder2("Gel","Sen de Gel","Sen Gelme Ulan","Sen Hep Gel"))
